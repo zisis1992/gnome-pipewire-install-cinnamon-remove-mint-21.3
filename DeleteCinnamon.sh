@@ -4,3 +4,6 @@
 
 apt purge cinnamon* xed* nemo* celluloid* xreader*
 apt purge lightdm*
+
+
+echo 'Done!'
