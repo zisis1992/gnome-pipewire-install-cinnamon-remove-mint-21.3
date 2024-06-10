@@ -13,7 +13,7 @@ where "path-to-scripts" your downloaded file location and "script" the name of t
 
 Then
 
-`chmod +x pwsetup.sh`
+`chmod +x script.sh`
 
 to make it executable,
 
