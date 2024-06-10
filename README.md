@@ -2,6 +2,7 @@
 Two scripts that install Gnome and Pipewire and remove Cinnamon,
 
 ## About
+TESTED ON MINT 21.3
 
 Love the Gnome Desktop, Pipewire and their features? Then these scripts are for you!
 
