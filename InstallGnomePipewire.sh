@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Install GNOME and GDM
-
-apt install gnome
-
 # Install pipewire from repository
 add-apt-repository ppa:pipewire-debian/pipewire-upstream -y
 add-apt-repository ppa:pipewire-debian/wireplumber-upstream -y
@@ -31,3 +27,8 @@ apt install libldacbt-abr2 libldacbt-enc2 libspa-0.2-bluetooth pipewire-audio-cl
 apt install --no-install-recommends xdg-desktop-portal-gnome -y
 flatpak install app/com.github.wwmm.easyeffects/x86_64/stable -y
 flatpak permission-reset com.github.wwmm.easyeffects
+
+
+# Install GNOME and GDM
+
+apt install gnome
