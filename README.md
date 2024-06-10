@@ -1,4 +1,4 @@
-# gnome-pipewire-install-cinnamon-remove-mint-21.3
+# gnome-pipewire-install-cinnamon-remove
 Two scripts that install Gnome and Pipewire and remove Cinnamon,
 
 ## About
