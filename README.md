@@ -22,6 +22,6 @@ and
 `sudo bash InstallGnomePipewire.sh` 
 `sudo bash DeleteCinnamon.sh`
 
-#NOTE
+# NOTE
 
 The DeleteCinnamon script must run after you login on GNOME Desktop!
