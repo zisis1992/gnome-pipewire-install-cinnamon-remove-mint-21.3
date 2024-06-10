@@ -29,3 +29,6 @@ flatpak permission-reset com.github.wwmm.easyeffects
 # Install GNOME and GDM
 
 apt install gnome
+
+
+echo 'Finished!'
