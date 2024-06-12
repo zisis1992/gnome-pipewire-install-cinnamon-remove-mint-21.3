@@ -20,8 +20,8 @@ to make it executable,
 
 and
 
-`sudo bash InstallGnomePipewire.sh` 
-`sudo bash DeleteCinnamon.sh`
+`sudo ./InstallGnomePipewire.sh` 
+`sudo ./DeleteCinnamon.sh`
 
 # NOTE
 
